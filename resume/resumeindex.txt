@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Resume for Matthew C. McAnally</title>
+	</head>
+<body>
+	<h1>Bio</h1>
+		<h2>Matthew C. McAnally is currently a student at Seminole State College of Florida. 
+		He has 4 years of graphic design experience in high school. His major is Emerging Art and Media 
+		and he plans on using it in the field of graphic design.
+		Born and raised in Orlando, Florida, he attended Lake Mary High School as a teenager 
+		and learned about Graphic Design there.</h2>
+	<h1>Skills</h1>
+		<ul>
+			<li>HTML Web Design</li>
+			<li>2 classes of College Level Drawing</li>
+			<li>Understanding Human and Computer Communication</li>
+			<li>Make Interactive Products</li>
+			<li>User-Interface Design</li>
+			<li>Understand the Fundamentals of Interactive Design</li>
+			<li>Combine different forms of media including audio and video</li>
+			<li>Understanding of different formats of web design<li>
+		</ul>
+	<h1>Programs</h1>
+		<ul>
+			<li>Photoshop</li>
+			<li>Illustrator</li>
+			<li>InDesign</li>
+			<li>Windows</li>
+			<li>Mac</li>
+		</ul>
+	<h1>Links</h1>
+		<ul>
+			<li><a href="https://github.com/connorssc/fid">GitHub</a>
+			<li><a href="https://www.behance.net/matthewmcanall">BeeHance</a>
+	<h1>Work Samples</h1>
+		<h2>The following are works that I have done in the past in my former experiences.</h2>
+		<img src="LakeMaryShirtDesign-Black.jpg">
+		<img src="LakeMaryShirtDesign-Grey.jpg">
+		<img src="RebelAlliance.jpg">
+</body>
