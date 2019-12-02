@@ -6,21 +6,21 @@ body {
   margin: 0 10%;
   color: black;
   background-color: #a3998e;
-  background-image: url(images/plaid.png);
+  background-image: url(plaid.png);
 }
 
 a {
   text-decoration: none;
 }
 a:link {
-	  color: black;
+	  color: #bd6726;
 }
 a:visited {
-	color: #fffbd1;
+	color: #bd6726;
 }
 a:focus, a:hover {
-	color: #fffbd1;
-	background-color: #c7bce6;
+	color: #bd6726;
+	background-color: #ff9e5b;
 }
 a:active {
 	color: #f0f;
@@ -32,11 +32,11 @@ h1 {
 		font-family: serif;
 		font-weight: normal;
 		text-transform: uppercase;
-		border-bottom: 2px solid #808073;
+		border-bottom: 2px solid #703d16;
 		margin-top: 30px;
 	}
 	h2 {
-		color: #ddd1ff;
+		color: #703d16;
 		font-size: 1em;
 	}
 	h3 {
