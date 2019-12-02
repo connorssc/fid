@@ -8,14 +8,14 @@ a {
   text-decoration: none;
 }
 a:link {
-	  color: black;
+	  color: #bd6726 ;
 }
 a:visited {
-	color: #fffbd1;
+	color: #bd6726;
 }
 a:focus, a:hover {
-	color: #fffbd1;
-	background-color: #c7bce6;
+	color: #bd6726;
+	background-color: #c96e28;
 }
 a:active {
 	color: #f0f;
@@ -26,11 +26,11 @@ h1 {
   font-family: sans-serif;
   font-weight: normal;
   text-transform: uppercase;
-  border-bottom: 1px solid #5c5c06;
+  border-bottom: 1px solid #703d16;
   margin-top: 30px;
 }
 h2 {
-  color: #e07b2d;
+  color: #703d16;
   font-size: 1em;
 }
 
